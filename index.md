@@ -1,13 +1,8 @@
 ## Hi there!
 
-I am a second year masters student researcher at Georgia Tech Centre for Music Technology in computational musicology, specializing in music emotion recognition and cross cultural music perception. I have also done extensive work in human subject studies, data analysis, music information retrieval (MIR), digital signal processing, Max/MSP/Jitter, and symbolic music analysis of Hindustani classical music. 
+I am a second year masters student researcher at [Georgia Tech Centre for Music Technology](https://music.gatech.edu/master-science-music-technology) in computational musicology, specializing in music emotion recognition and cross cultural music perception. I have also done extensive work in human subject studies, data analysis, music information retrieval (MIR), digital signal processing, Max/MSP/Jitter, and symbolic music analysis of Hindustani classical music. Throughout the program I have worked on numerous projects some of which are highlighted below.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+My resume : [Rhythm_Jain_2022.pdf](https://github.com/rjain354/rjain354.github.io/files/7962365/Rhythm_Jain_2022.pdf)
 
 # Header 1
 ## Header 2
