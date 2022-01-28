@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-I am a graduate researcher at Georgia Tech Centre for Music Technology in computational musicology, specializing in music emotion recognition and cross cultural music perception. I have also done extensive work in human subject studies, data analysis, music information retrieval (MIR), digital signal processing, Max/MSP/Jitter, and symbolic music analysis of Hindustani classical music. 
+I am a second year masters student researcher at Georgia Tech Centre for Music Technology in computational musicology, specializing in music emotion recognition and cross cultural music perception. I have also done extensive work in human subject studies, data analysis, music information retrieval (MIR), digital signal processing, Max/MSP/Jitter, and symbolic music analysis of Hindustani classical music. 
 
 ### Markdown
 
