@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/rjain354/rhythmjain.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a graduate researcher at Georgia Tech Centre for Music Technology in computational musicology, specializing in music emotion recognition and cross cultural music perception. I have also done extensive work in human subject studies, data analysis, music information retrieval (MIR), digital signal processing, Max/MSP/Jitter, and symbolic music analysis of Hindustani classical music. 
 
 ### Markdown
 
