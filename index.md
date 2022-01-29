@@ -45,8 +45,6 @@ MeloGraph is a visualization tool to aid musicians with their improvisation tech
 ### Software Synthesizer
 We designed a python-based synthesizer that can be run using the command line. The codebase for the project can be found at this [github](https://github.com/rjain354/music6202/tree/main/FinalProject) repository. Taking symbolic music notation (Kern files) as input, the system produces synthesized output files in .wav format, downloaded to the user’s local machine. Synthesis of the signals was done using additive and wave table techniques.
 
- [Rhythm_Jain_2022.pdf](https://github.com/rjain354/rjain354.github.io/files/7962616/Rhythm_Jain_2022.pdf)
-
 ### Others
 
 #### Computational and Cognitive Lab Website
