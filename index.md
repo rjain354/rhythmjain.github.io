@@ -1,12 +1,12 @@
 ## Hi there!
-<p><img align="centre" width="310" alt="rhythmProfile" src="https://user-images.githubusercontent.com/78115400/151638487-2b039251-bbd4-4155-a3b6-1b3c37c4a165.jpg">
+<p><img id="profile" align="centre" width="310" alt="rhythmProfile" src="https://user-images.githubusercontent.com/78115400/151638487-2b039251-bbd4-4155-a3b6-1b3c37c4a165.jpg">
 <style>
-  img{
+  #profile{
     border-radius: 50%;
   }
   </style>
 <!-- ![20210114_121432](https://user-images.githubusercontent.com/78115400/151638487-2b039251-bbd4-4155-a3b6-1b3c37c4a165.jpg) -->
-I am a second year Masters student researcher at [Georgia Tech Centre for Music Technology](https://music.gatech.edu/master-science-music-technology) in computational musicology, specializing in music emotion recognition and cross cultural music perception. I have also done extensive work in human subject studies, data analysis, music information retrieval (MIR), digital signal processing, Max/MSP/Jitter, and symbolic music analysis of Hindustani classical music. Throughout the program I have worked on numerous projects some of which are highlighted below.
+I am a second year Masters student researcher at <a href="https://music.gatech.edu/master-science-music-technology">Georgia Tech Centre for Music Technology</a> in computational musicology, specializing in music emotion recognition and cross cultural music perception. I have also done extensive work in human subject studies, data analysis, music information retrieval (MIR), digital signal processing, Max/MSP/Jitter, and symbolic music analysis of Hindustani classical music. Throughout the program I have worked on numerous projects some of which are highlighted below.
   </p>
 
 Previously, I was a Bachelor’s student in BITS Pilani, studying Mathematics and Computer Science. Shortly after I interned at various places including Amazon Development Centre, Goodera and worked as Software Engineer at Xilinx.
