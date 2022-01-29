@@ -20,8 +20,8 @@ music based on time of Day theory (Prahar Theory) prevalent in Hindustani Classi
 ### Sur Tarang
 #### An interactive bio-feedback music system
 
-<img width="310" alt="Screen Shot 2022-01-28 at 19 00 47" src="https://user-images.githubusercontent.com/78115400/151637279-5af2591c-41aa-4b99-bb5c-c85eb44a932c.png">
-<img width="1019" alt="Screen Shot 2022-01-28 at 19 05 52" src="https://user-images.githubusercontent.com/78115400/151637624-ee30e406-d263-4a2b-a15d-da0acaa2de04.png">
+<img align="centre" width="310" alt="Screen Shot 2022-01-28 at 19 00 47" src="https://user-images.githubusercontent.com/78115400/151637279-5af2591c-41aa-4b99-bb5c-c85eb44a932c.png">
+<img align="centre" width="1019" alt="Screen Shot 2022-01-28 at 19 05 52" src="https://user-images.githubusercontent.com/78115400/151637624-ee30e406-d263-4a2b-a15d-da0acaa2de04.png">
 
 - Designed an interactive and generative music system enabling musicians to control several parameters of the accompanying instruments without the need to touch or manipulate physical interfaces. Sur Tarang translated body and mind signals (bio signals via EEG) as well as automatic gesture recognition into
 the sounds of the accompanying instruments.
@@ -30,7 +30,7 @@ the sounds of the accompanying instruments.
 
 ### Melograph
 ![Image](https://user-images.githubusercontent.com/78115400/151636271-d8e6794f-9df5-44bd-8b0d-94c9079dc83a.png)
-<img width="604" alt="Screen Shot 2022-01-28 at 18 43 55" src="https://user-images.githubusercontent.com/78115400/151636285-5e37ea06-171a-4dbd-8b8b-3990a0f6889a.png">
+<img align="centre" width="604" alt="Screen Shot 2022-01-28 at 18 43 55" src="https://user-images.githubusercontent.com/78115400/151636285-5e37ea06-171a-4dbd-8b8b-3990a0f6889a.png">
 
 - MeloGraph is a visualization tool to aid musicians with their improvisation techniques. By extracting note-level pitch information from a given audio signal of a monophonic performance, this tool shows the relative note and transition prominence in the user’s performance.
 
@@ -42,22 +42,3 @@ project can be found at the github repository link here.
 - Taking symbolic music notation (Kern files) as input, the system produces synthesized output files in
 .wav format, downloaded to the user’s local machine. Synthesis of the signals was done using additive
 and wave table techniques.
-
-
-
-
-
-
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rjain354/rhythmjain.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
