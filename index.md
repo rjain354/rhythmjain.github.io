@@ -1,5 +1,5 @@
 ## Hi there!
-<img align="centre" width="310" alt="rhythmProfile" src="https://user-images.githubusercontent.com/78115400/151638487-2b039251-bbd4-4155-a3b6-1b3c37c4a165.jpg">
+!<img align="centre" width="310" alt="rhythmProfile" src="https://user-images.githubusercontent.com/78115400/151638487-2b039251-bbd4-4155-a3b6-1b3c37c4a165.jpg">
 <style>
   img{
     border-radius: 50%;
