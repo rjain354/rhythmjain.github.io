@@ -30,8 +30,7 @@ Designed a human perceptual experiment to understand the effect of time of day o
 ### Sur Tarang
 #### An interactive bio-feedback music system
 <p>
-<img align="centre" width="500" alt="Screen Shot 2022-01-28 at 19 00 47" src="https://user-images.githubusercontent.com/78115400/151637279-5af2591c-41aa-4b99-bb5c-c85eb44a932c.png">
-<img align="centre" width="500" alt="Screen Shot 2022-01-28 at 19 05 52" src="https://user-images.githubusercontent.com/78115400/151637624-ee30e406-d263-4a2b-a15d-da0acaa2de04.png">
+<img align="centre" width="250" alt="Screen Shot 2022-01-28 at 19 00 47" src="https://user-images.githubusercontent.com/78115400/151637279-5af2591c-41aa-4b99-bb5c-c85eb44a932c.png"><img align="centre" width="200" alt="Screen Shot 2022-01-28 at 19 05 52" src="https://user-images.githubusercontent.com/78115400/151637624-ee30e406-d263-4a2b-a15d-da0acaa2de04.png">
 </p>
 
 Sur Tarang is an interactive and generative music system enabling musicians to control several parameters of the accompanying instruments without the need to touch or manipulate physical interfaces. Sur Tarang translated body and mind signals (bio signals via EEG) as well as automatic gesture recognition into
