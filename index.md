@@ -47,7 +47,7 @@ the sounds of the accompanying instruments. The sound design was done in Ableton
 MeloGraph is a visualization tool to aid musicians with their improvisation techniques. By extracting note-level pitch information from a given audio signal of a monophonic performance, this tool shows the relative note and transition prominence in the user’s performance. We used Harmonic Percussive Source Separation (HPSS) for onset detection, Normalized cross corelation function (NCCF) algorithms for F0 detection and NetworkX and Cytoscape libraries for visualization. For more details check out the [github](https://github.com/nol-alb/melograph_submission) repository.
 
 ### Software Synthesizer
-We designed a python-based synthesizer that can be run using the command line. The codebase for the project can be found at this [github repository link](https://github.com/rjain354/music6202/tree/main/FinalProject). Taking symbolic music notation (Kern files) as input, the system produces synthesized output files in .wav format, downloaded to the user’s local machine. Synthesis of the signals was done using additive and wave table techniques.
+We designed a python-based synthesizer that can be run using the command line. The codebase for the project can be found at this [github](https://github.com/rjain354/music6202/tree/main/FinalProject) repository. Taking symbolic music notation (Kern files) as input, the system produces synthesized output files in .wav format, downloaded to the user’s local machine. Synthesis of the signals was done using additive and wave table techniques.
 
 My resume : [Rhythm_Jain_2022.pdf](https://github.com/rjain354/rjain354.github.io/files/7962616/Rhythm_Jain_2022.pdf)
 
