@@ -5,7 +5,7 @@
     <td><b style="font-size:30px"></b></td>
  </tr>
  <tr>
-    <td><img id="profile" align="centre" width="500" alt="rhythmProfile" src="https://user-images.githubusercontent.com/78115400/151638487-2b039251-bbd4-4155-a3b6-1b3c37c4a165.jpg"></td>
+    <td><img id="profile" align="centre" width="1000" alt="rhythmProfile" src="https://user-images.githubusercontent.com/78115400/151638487-2b039251-bbd4-4155-a3b6-1b3c37c4a165.jpg"></td>
     <td>I am a second year Masters student researcher at <a href="https://music.gatech.edu/master-science-music-technology">Georgia Tech Centre for Music Technology</a> in computational musicology, specializing in music emotion recognition and cross cultural music perception. I have also done extensive work in human subject studies, data analysis, music information retrieval (MIR), digital signal processing, Max/MSP/Jitter, and symbolic music analysis of Hindustani classical music. Throughout the program I have worked on numerous projects some of which are highlighted below.</td>
  </tr>
 </table>
