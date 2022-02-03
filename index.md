@@ -39,6 +39,8 @@ the sounds of the accompanying instruments. The sound design was done in Ableton
 ### Melograph
 ![Image](https://user-images.githubusercontent.com/78115400/151636271-d8e6794f-9df5-44bd-8b0d-94c9079dc83a.png) <img width="500" alt="Screen Shot 2022-01-28 at 18 43 55" src="https://user-images.githubusercontent.com/78115400/151636285-5e37ea06-171a-4dbd-8b8b-3990a0f6889a.png">
 
+![image](https://user-images.githubusercontent.com/78115400/152262124-167cd5ec-3d3a-4027-b9de-382079915a2a.png)
+
 MeloGraph is a visualization tool to aid musicians with their improvisation techniques. By extracting note-level pitch information from a given audio signal of a monophonic performance, this tool shows the relative note and transition prominence in the user’s performance. We used Harmonic Percussive Source Separation (HPSS) for onset detection, Normalized cross corelation function (NCCF) algorithms for F0 detection and NetworkX and Cytoscape libraries for visualization. For more details check out the [github](https://github.com/nol-alb/melograph_submission) repository.
 
 ### Software Synthesizer
@@ -51,4 +53,5 @@ Over summer 2021, I designed a [website](https://ccml.gtcmt.gatech.edu/) for the
 
 ### Resume
 Check out my presence on social media links and my [resume](https://github.com/rjain354/rjain354.github.io/files/7962616/Rhythm_Jain_2022.pdf).
+
 
