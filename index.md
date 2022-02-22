@@ -20,12 +20,8 @@
   </p>
 
 ## My Research 
-### Uncovering patterns in note-to-note transitions in Hindustani Classical Ragas
-In this corpus-based analysis on Hindustani classical music ragas, we aimed to understand the relationships between different notes of a raga and ornamentation styles and the allocated time of day.The analysis was carried out on two symbolic datasets, the Saraga dataset as well as a Humdrum dataset using Python and Humdrum.
-
-### A Cross-cultural Examination of Raga perception: Examining the link between Circadian Rhythms and Pitch Features
-Designed a human perceptual experiment to understand the effect of time of day of listening on the perception of music based on time of Day theory (Prahar Theory) prevalent in Hindustani Classical music. Currently conducting preliminary analysis on participants' data.
-
+### A Cross-cultural Examination of Raga perception and time-of-day
+In Hindustani classical music, there is a historic association between a raga and the time-of-day (prahar) that the raga should be performed.  We wanted to understand if prahar is purely a learned cultural aspect of the performance tradition, or whether it can be perceived. Listeners selected the most appropriate time of day in a forced-alternative task. Based on a pilot study, we chose four maximally- separated time intervals ( morning, afternoon, evening, night) and asked participants to select the time of the day they would most likely want to listen to each given audio clip. We are conducting analyses on the collected data.
 ## My Projects
 ### Sur Tarang
 #### An interactive bio-feedback music system
