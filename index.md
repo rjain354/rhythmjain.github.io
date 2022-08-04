@@ -6,7 +6,7 @@
  </tr>
  <tr>
     <td><img id="profile" align="centre" width="2500" alt="rhythmProfile" src="https://user-images.githubusercontent.com/78115400/151638487-2b039251-bbd4-4155-a3b6-1b3c37c4a165.jpg"></td>
-    <td>I am a second year Masters student researcher at <a href="https://music.gatech.edu/master-science-music-technology">Georgia Tech Centre for Music Technology</a> in computational musicology, specializing in music emotion recognition and cross cultural music perception. I have also done extensive work in human subject studies, data analysis, music information retrieval (MIR), digital signal processing, Max/MSP/Jitter, and symbolic music analysis of Hindustani classical music. Throughout the program I have worked on numerous projects some of which are highlighted below. I completed my under graduate studies from BITS Pilani, studying Mathematics and Computer Science. Shortly after I interned at various places including Amazon Development Centre, Goodera and IBM and worked as Software Engineer at Xilinx.</td>
+    <td>I am a second year Master's student researcher at <a href="https://music.gatech.edu/master-science-music-technology">Georgia Tech Centre for Music Technology</a> in computational musicology, specializing in cross cultural music perception and music informatics. I have also done extensive work in human subject studies, data analysis, music information retrieval (MIR), digital signal processing, Max/MSP/Jitter, and symbolic music analysis of Hindustani classical music. Throughout the program I have worked on numerous projects some of which are highlighted below. I completed my under graduate studies from BITS Pilani, studying Mathematics and Computer Science. Shortly after I interned at various places including Amazon Development Centre, Goodera and IBM and worked as Software Engineer at Xilinx. I am currently an Summer Scientist intern at Pandora.</td>
  </tr>
 </table>
 
@@ -21,7 +21,9 @@
 
 ## My Research 
 ### A Cross-cultural Examination of Raga perception and time-of-day
-In Hindustani classical music, there is a historic association between a raga and the time-of-day (prahar) that the raga should be performed.  We wanted to understand if prahar is purely a learned cultural aspect of the performance tradition, or whether it can be perceived. Listeners selected the most appropriate time of day in a forced-alternative task. Based on a pilot study, we chose four maximally- separated time intervals ( morning, afternoon, evening, night) and asked participants to select the time of the day they would most likely want to listen to each given audio clip. We are conducting analyses on the collected data.
+In Hindustani classical music (HCM), there is a historic association between a raga and the time of day or <i>prahar</i> that it should be performed at. We wanted to understand if <i>prahar</i> is purely a learned cultural aspect of the performance tradition of HCM, or if it can be perceived. In addition, we wished to separate the effects of enculturation as well as musical training. There have been several studies investigating the relationship between ragas and their evoked emotions. However, although prahar is related to emotion conveyance (i.e., performing the raga within the prahar is believed to maximize its emotional impact), we were specifically interested in whether the musical excerpts would be associated with a particular time of day.
+
+More details regarding the background and analysis of this research are available at <a href="https://github.com/rhythmjain/TimeOfDay_PerceptionStudy">this GitHub repository</a>. This research has been accepted as a talk for <a href="[https://pheedloop.com/SMPC2022/site/](https://pheedloop.com/SMPC2022/site/sessions/?id=SES0SPY98F8HVWH80)">SMPC 2022</a> in Portland, Oregon.
 ## My Projects
 ### Sur Tarang
 #### An interactive bio-feedback music system
